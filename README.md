@@ -13,4 +13,4 @@
 
 ---
 
-https://cartoon-rick-and-morty.netlify.app/
+https://yantarne-radio.netlify.app/
